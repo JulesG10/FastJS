@@ -67,7 +67,7 @@ FJ.CustomParse(input,ouput,(selectorElement,event,Change,selectorIndex,item,css)
     * s
 * callback
     * function (no parameters and function name must be like this [a-zA-Z0-9])
-    * function recienve the event parameter
+    * ~~function recienve the event parameter~~
 * attribute
     * rem("attribute_name")
     * set("name","value")  (update if there was a value)
