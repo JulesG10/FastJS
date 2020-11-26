@@ -1,0 +1,37 @@
+
+#a:click{
+    coucou:nice;
+    coucou:nice;
+    coucou:nice;
+    attribute:set("ok","ok");
+    delay:0.3s;
+    delay:0.5ms;
+    callback:ok();
+}
+
+.ok:mouseover{
+    display:none;
+    delay:0.2s;
+    callback:end();
+    attribute:set("voila","nice");
+}
+
+(attr)[0]:on{
+    callback:nice();
+    coucou:nice;
+    ok:nice;
+    attribute:rem("ok","nice","cool");
+    
+}
+
+#coucou[0]:false{
+    
+}#a:click{
+    coucou:nice;
+    coucou:nice;
+    coucou:nice;
+    attribute:set("ok","ok");
+    delay:0.3s;
+    delay:0.5ms;
+    callback:ok();
+}
