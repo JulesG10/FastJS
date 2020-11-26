@@ -115,4 +115,4 @@ div:drag{
 
 
 ## Licence
-[Apache](https://github.com/JulesG10/FastJS/LICENCE.md)
+[Apache](https://github.com/JulesG10/FastJS/blob/master/LICENSE)
